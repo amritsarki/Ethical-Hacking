@@ -1,0 +1,10 @@
+#Mac Address
+
+Mac address are uique while Ip address are not unique for devices.
+-MAC(Media Access Control) address is also know as hardware/physical address ad it is uique identifier assigned to a network interface controller(NIC) in a computer or networking device.
+
+-MAC addresses are used at the data link layer(layer 2) of the OSI model
+
+-uniqueness
+-non changing 
+-fixed format
